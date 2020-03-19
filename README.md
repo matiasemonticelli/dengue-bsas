@@ -10,3 +10,5 @@ El script toma la última columna de la información copiada (la suma de todos l
 
 Bugs conocidos:
 Según las bibliotecas instaladas en Python, puede producirse un bug que provoca que la capa de salida no tenga SRC asignado. En dicho caso, se le puede asignar manualmente en argGis, QGIS o el SIG que se utilice. El SRC correspondiente es EPSG:4326 - WGS 84 - Geográfico.
+
+GIT.DengyeBA.ipynb se encuentra bajo licencia Creative Commons Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/). Puede modificar y utilizar el código en sus productos. Le solicito por cortesía que si lo hace, me avise para poder seguir mejorando mi trabajo.
